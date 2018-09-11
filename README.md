@@ -6,7 +6,7 @@ A php library for using the Authy API.
 
 ## Installation
 
-This library requires PHP 5.6+
+This library requires PHP 5.6 > 
 
 ### Install via composer:
 
